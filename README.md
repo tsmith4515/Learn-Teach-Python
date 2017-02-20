@@ -1,9 +1,9 @@
-# For Easy Navigation
+# Python Fluency: Easy Navigation
 * [Why I Wrote This](#why-i-wrote-this)
 * [The Learning Philosophy](#my-learning-philosophy)
 * [About Me](#about-me)
 * [Shout-Outs](#shout-outs)
-* [Tutoring Setup](#tutoring)
+* [Tutoring](#tutoring)
 
 # Why I Wrote This
 I've spent 3 months committing myself to learning Python in late 2016.  I went from Python ground zero to successfully solving Kyu 4/5 Python problems on CodeWars, able to land Python-related positions, being admitted to two data science bootcamps, and successfully freelance on Python with businesses in my spare time, as well as do "light" data-science for app-makers.
@@ -52,7 +52,7 @@ P.S. more Python tips/hacks to come in this file, like my suggested approach wit
 # About Me
 I'm just a normal guy who likes to learn lots of new things and take on projects.  I do have a bit of ADD when it comes to picking and sticking to projects, but I use that to my benefit - it keeps life fun and light (though it is hard to focus at times).  Former lives have included tennis instructor, college chemistry TA, chemical engineer, business executive, entrepreneur, blogger, and world traveler.
 
-Nowadays, I keep myself busy with constant learning (of course), focused now on a few things: (1) the psychology and art of people (Dale Carnegie), (2) tutoring various students/professionals in Python, Excel, and MS Access (anything data really), (3) I am partnering with Code2College in Austin to memorialize these lessons into a High School Python course. This will be fantastic when it is done. (4) my keen interest in art and building, right now it is my porch garden, woodworking, and music/song-writing, and (5) some career-related work and freelancing with my business and operations skillsets.  
+Nowadays, I keep myself busy with constant learning (of course), focused now on a few things: (1) the psychology and art of people (Dale Carnegie), (2) tutoring various students/professionals in Python, Excel, and MS Access (anything data really), (3) I am partnering with [Code2College](http://www.code2college.org/) to memorialize these lessons into a High School Python course. This will be fantastic when it is done,and I am very excited! (4) my keen interest in art and building, right now it is my porch garden, woodworking, and music/song-writing, and (5) some career-related work and freelancing with my business and operations skillsets.  
 
 My real passion is the intersection of people and technology, and ideally art.  I have yet to settle into that niche perfectly, but on the way!
 
