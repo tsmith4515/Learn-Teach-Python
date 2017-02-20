@@ -1,4 +1,4 @@
-# Easy Navigation
+# For Easy Navigation
 * [Why I Wrote This](#why-i-wrote-this)
 * [The Learning Philosophy](#my-learning-philosophy)
 * [About Me](#about-me)
@@ -44,22 +44,24 @@ My process was as follows:
 
 Now to clarify, how did I use process, discipline, and systematic in each of those?
 * *Process.* The process was very procedural, steps 1-4, with a specified approach.
-* *Discipline.* Discipline means not looking at your notes when you want to. Discipline means waiting the 10 hours or day before redoing the problem to make sure you did indeed forget the solution, forcing you to relearn it.
+* *Discipline.* Discipline means not looking at the easily explained solution when you want to. It means testing it and figuring out how the function really works, and what its limitations are.  Discipline means waiting the 10 hours or day before redoing the problem to make sure you did indeed forget the solution, forcing you to relearn it.
 * *Systematic.* I didn't always have the same process above. I didn't always try to "break" the most upvoted solution, and I didn't always reconstruct it.  At the beginning, I would just read the source docs on it, and try to use it in that problem.  Being systematic means committing to always improving your process and discipline.  It is a servant of the process.
 
 P.S. more Python tips/hacks to come in this file, like my suggested approach with LPTHW and Project Euler, as well as my Evernote Python toolbelt template!  Stay tuned.
 
 # About Me
-I'm just a normal guy who likes to learn lots of new things and take on projects.  I do have a bit of ADD when it comes to picking and sticking to projects, but I use that to my benefit - it keeps life fun and light (though it is hard to focus at times).  Former lives have included tennis instructor, college chemistry TA, chemical engineer, business executive, entrepreneur, and world traveler.
+I'm just a normal guy who likes to learn lots of new things and take on projects.  I do have a bit of ADD when it comes to picking and sticking to projects, but I use that to my benefit - it keeps life fun and light (though it is hard to focus at times).  Former lives have included tennis instructor, college chemistry TA, chemical engineer, business executive, entrepreneur, blogger, and world traveler.
 
-Nowadays, I keep myself busy with constant learning (of course), focused now on a few things: (1) the psychology and art of people (Dale Carnegie), (2) tutoring various students/professionals in Python, Excel, and MS Access (anything data really), and (3) my keen interest in art and building, right now it is my porch garden, woodworking, and music/song-writing.
+Nowadays, I keep myself busy with constant learning (of course), focused now on a few things: (1) the psychology and art of people (Dale Carnegie), (2) tutoring various students/professionals in Python, Excel, and MS Access (anything data really), (3) I am partnering with Code2College in Austin to memorialize these lessons into a High School Python course. This will be fantastic when it is done. (4) my keen interest in art and building, right now it is my porch garden, woodworking, and music/song-writing, and (5) some career-related work and freelancing with my business and operations skillsets.  
+
+My real passion is the intersection of people and technology, and ideally art.  I have yet to settle into that niche perfectly, but on the way!
 
 I love my life, and I love meeting new people.  Feel free to connect with me through a [Facebook message](https://www.facebook.com/thomasdlsmith), [LinkedIn](https://www.linkedin.com/in/thomasdsmith4515/), [GitHub](https://github.com/tsmith4515), or [my personal website](https://thomasdsmith.wordpress.com/).
 
 # Shout-Outs
 Finally, this would not be complete without some shout-outs.  To my friends: Jeremy, Nick, Chris, Carl, and Kevin, that went along the Python journey with me at various points, giving me advice and encouragement as I went.  
 
-Now for online resources: <a href="https://developers.google.com/edu/python/">Python for Google Developers class</a>, <a href="https://learnpythonthehardway.org/book/">Learn Python the Hard Way</a>, <a href="https://www.codewars.com/dashboard">CodeWars</a>, <a href="https://www.codecademy.com/learn">Codecademy</a>, <a href="https://projecteuler.net/">Project Euler</a>, as well as several other miscellaneous resources online that helped me set the direction of my learning and given me real problems to work on.
+And for the online resources that got me going: <a href="https://developers.google.com/edu/python/">Python for Google Developers class</a>, <a href="https://learnpythonthehardway.org/book/">Learn Python the Hard Way</a>, <a href="https://www.codewars.com/dashboard">CodeWars</a>, <a href="https://www.codecademy.com/learn">Codecademy</a>, <a href="https://projecteuler.net/">Project Euler</a>, as well as several other miscellaneous resources online that helped me set the direction of my learning and given me real problems to work on.
 
 It is always best to learn in pairs, because you get a new perspective, AND you make a closer friend along the way.  Learn Python with a friend!
 
